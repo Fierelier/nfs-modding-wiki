@@ -18,6 +18,13 @@ Get [Python 3.4.4](https://www.python.org/downloads/release/python-344/)
 ### Linux
 Install `python3` or `python` in your package manager.
 
+## Python Markdown
+### Windows
+Run `py -m pip install markdown`
+
+### Linux
+Run `python3 -m pip install markdown`
+
 # 2. Making a clone
 Go to a directory, like Documents, run a terminal and enter `git clone https://github.com/Fierelier/nfs-modding-wiki`. The wiki, and its history will be saved in a directory called `nfs-modding-wiki`.
 

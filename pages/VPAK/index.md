@@ -5,6 +5,8 @@ The files may be compressed with [JDLZ](../JDLZ/) (.lzc).
 # Format
 On PC, all integers are little endian, 32-bit and unsigned. On Gamecube and XBOX 360, endianness of some or all numbers may be different.
 
+**Important:** The sorting of vaults matters. Original VPAKs seem to have vaults sorted by their name, using [C's strcmp](https://www.man7.org/linux/man-pages/man3/strcmp.3.html).
+
 ## Section 1 - Header
 The file's header.
 

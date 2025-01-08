@@ -21,7 +21,8 @@ Each vault has a metadata entry, describing it. Repeat this sequence `NumEntries
 * **VltSize:** Size of the vlt section, without padding
 * **BinOffset:** Global offset of vault's binary section start
 * **VltOffset:** Global offset of vault's VLT section start
-* Nulls, padded to the nearest multiple of 64
+
+At the end, there are nulls, padded to the nearest multiple of 64.
 
 ## Section 3 - Global string block
 Contains strings.

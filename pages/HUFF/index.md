@@ -5,4 +5,4 @@ HUFF is a proprietary compression format, based on [Huffman coding](https://en.w
 * [quickbms](https://aluigi.altervista.org/quickbms.htm) - Windows, C/C++, Open source
 
 ## Commandline
-* [ea_compression_tool](https://github.com/RayneDuarte/EAC/tree/RayneDuarte-patch-1) - Windows
+* [ea_compression_tool](https://github.com/RayneDuarte/EAC) - Windows
